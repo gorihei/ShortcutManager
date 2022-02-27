@@ -1,6 +1,6 @@
 # ShortcutManager
 
-![image](https://user-images.githubusercontent.com/42645583/155891997-6958c1df-0247-4f41-b240-6d29a1c36096.png)
+![image](https://user-images.githubusercontent.com/42645583/155892026-58741869-0239-4c59-9647-538763140a9a.png)
 
 
 動作環境 .NET FrameWork4.8
