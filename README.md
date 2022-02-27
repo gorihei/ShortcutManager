@@ -8,4 +8,5 @@ LISENCE MIT
 
 ご自由にご利用ください。
 使用方法は下記サイトを参照ください。
-　https://gorihei.com/pc/580/
+
+https://gorihei.com/pc/580/
